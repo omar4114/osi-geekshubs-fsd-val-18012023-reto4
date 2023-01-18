@@ -1,0 +1,16 @@
+
+p {
+    margin-bottom: 0px;
+}
+
+ol {
+    margin-top: 0px;
+}
+
+#primeraLista {
+    list-style-type: lower-alpha;
+} 
+
+#segundaLista {
+    list-style: upper-roman;
+}
